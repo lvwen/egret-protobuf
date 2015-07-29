@@ -1,0 +1,11 @@
+{
+    "name": "protobuf",
+    "dependence": ["core"],
+    "source":"./",
+    "file_list": [
+        "ProtoBuf.d.ts",
+		"Long.min.js",
+		"ByteBufferAB.min.js",
+		"ProtoBuf.min.js"
+    ]
+}
